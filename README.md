@@ -19,7 +19,7 @@ This work established a StrongPose model which jointly tackle the problem of pos
 - [ ] python-opencv 3.4.1
 
 ## Demo
-- [ ] Download the model https://drive.google.com/file/d/1oDPVqRnWA9hKIN-AWcgr6ViDxrrkhNSX/view?usp=sharing <br/>
+- [ ] Download the model https://drive.google.com/file/d/1oDPVqRnWA9hKIN-AWcgr6ViDxrrkhNSX/view?usp=sharing and place in model/personlab folder for quick visualization results <br/>
 - [ ] python demo.py to run the demo and visualize the model result in demo_result folder. 
 
 ## Training
