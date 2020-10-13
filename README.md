@@ -12,9 +12,9 @@ Code repo for ICPR 2021 paper (https://Article-Link-will-be-available-soon)
 ![](pic3.jpeg)
 
 ## Required
-#### > Python3
-#### > Tensorflow 1.80
-#### > pycocotools 2.0
-#### > skimage 0.13.0
-#### > python-opencv 3.4.1
+##### > Python3
+##### > Tensorflow 1.80
+##### > pycocotools 2.0
+##### > skimage 0.13.0
+##### > python-opencv 3.4.1
 
