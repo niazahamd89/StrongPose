@@ -31,8 +31,12 @@ This work established a StrongPose model which jointly tackle the problem of pos
 
 - [ ] http://images.cocodataset.org/annotations/annotations_trainval2017.zip <br/>
 
-- [ ] Put the training images in coco2017/train2017/
-- [ ] val images in coco2017/val2017/
-- [ ] training annotations in coco2017/annotations/
+- [ ] Place the training images in coco2017/train2017/
+- [ ] Place val images in coco2017/val2017/
+- [ ] Place training annotations in coco2017/annotations/
 
-- [ ] Download the Resnet101 pretrained model, put the model in ./model/101/resnet_v2_101.ckpt
+- [ ] Download the Resnet101 pretrained model (http://download.tensorflow.org/models/resnet_v2_101_2017_04_14.tar.gz), put the model in ./model/101/resnet_v2_101.ckpt
+- [ ] Edit the config.py to set options for training, e.g. dataset position, input tensor shape, learning rate.
+- [ ] Run the train.py script
+
+
