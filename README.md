@@ -30,3 +30,9 @@ This work established a StrongPose model which jointly tackle the problem of pos
 - [ ] http://images.cocodataset.org/zips/val2017.zip <br/>
 
 - [ ] http://images.cocodataset.org/annotations/annotations_trainval2017.zip <br/>
+
+- [ ] Put the training images in coco2017/train2017/
+- [ ] val images in coco2017/val2017/
+- [ ] training annotations in coco2017/annotations/
+
+- [ ] Download the Resnet101 pretrained model, put the model in ./model/101/resnet_v2_101.ckpt
