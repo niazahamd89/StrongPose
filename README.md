@@ -6,19 +6,19 @@ This work established a StrongPose model which jointly tackle the problem of pos
 - [ ] Bacbone Network: ResNet 101, 152 (Modified) <br/>
 
 ## Introduction
-Code repo for ICPR 2021 paper (https://Article-will-be-available-soon)
+ - [ ] Code repo for ICPR 2021 paper (https://Article-will-be-available-soon)
 
 ## Result
 ![](pic3.jpeg)
 
 ## Required
-##### > Python3
-##### > Tensorflow 1.80
-##### > pycocotools 2.0
-##### > skimage 0.13.0
-##### > python-opencv 3.4.1
+- [ ] Python3
+- [ ] Tensorflow 1.80
+- [ ] pycocotools 2.0
+- [ ] skimage 0.13.0
+- [ ] python-opencv 3.4.1
 
 ## Demo
-> Download the model https://drive.google.com/file/d/1oDPVqRnWA9hKIN-AWcgr6ViDxrrkhNSX/view?usp=sharing <br/>
-> python demo.py to run the demo and visualize the model result in demo_result folder. 
+- [ ] Download the model https://drive.google.com/file/d/1oDPVqRnWA9hKIN-AWcgr6ViDxrrkhNSX/view?usp=sharing <br/>
+- [ ] python demo.py to run the demo and visualize the model result in demo_result folder. 
 
