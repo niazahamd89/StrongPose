@@ -6,15 +6,15 @@ This work established a StrongPose model which jointly tackle the problem of pos
 ### Bacbone Network: ResNet 101, 152 (Modified)
 
 ## Introduction
-Code repo for reproducing 2020 ICPR paper (https://Article-Link-will-be-available-soon)
+Code repo for ICPR 2021 paper (https://Article-Link-will-be-available-soon)
 
 ## Result
 ![](pic3.jpeg)
 
 ## Required
-> Python3
-> Tensorflow 1.80
-> pycocotools 2.0
-> skimage 0.13.0
-> python-opencv 3.4.1
+#### > Python3
+#### > Tensorflow 1.80
+#### > pycocotools 2.0
+#### > skimage 0.13.0
+#### > python-opencv 3.4.1
 
