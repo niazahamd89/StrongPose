@@ -6,7 +6,7 @@ This work established a StrongPose model which jointly tackle the problem of pos
 ### Bacbone Network: ResNet 101, 152 (Modified)
 
 ## Introduction
-Code repo for ICPR 2021 paper (https://Article-Link-will-be-available-soon)
+Code repo for ICPR 2021 paper (https://Article-will-be-available-soon)
 
 ## Result
 ![](pic3.jpeg)
