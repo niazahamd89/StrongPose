@@ -3,4 +3,7 @@ This work established a StrongPose model which jointly tackle the problem of pos
 
 ### Dataset: COCO Keypoint 2017
 ### Platform: TensorFlow, OpenCV
-### Bacboon Network: ResNet 101, 152 (Modified)
+### Bacbone Network: ResNet 101, 152 (Modified)
+
+## Introduction
+Code repo for reproducing 2020 ICPR paper (http:Article-Link-will-be-available-soon)
