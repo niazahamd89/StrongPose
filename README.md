@@ -39,6 +39,6 @@ This work established a StrongPose model which jointly tackle the problem of pos
 - [ ] Edit the config.py to set options for training, e.g. dataset position, input tensor shape, learning rate.
 - [ ] Run the train.py script
 
-## Training
+## Note
 - [ ] For any query please comment in issues section. 
 
