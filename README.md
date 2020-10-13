@@ -11,3 +11,10 @@ Code repo for reproducing 2020 ICPR paper (https://Article-Link-will-be-availabl
 ## Result
 ![](pic3.jpeg)
 
+## Required
+> Python3
+> Tensorflow 1.80
+> pycocotools 2.0
+> skimage 0.13.0
+> python-opencv 3.4.1
+
