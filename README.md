@@ -9,5 +9,5 @@ This work established a StrongPose model which jointly tackle the problem of pos
 Code repo for reproducing 2020 ICPR paper (http:Article-Link-will-be-available-soon)
 
 ## Result
-![](pic3.pdf)
+![](pic3.jpeg)
 
