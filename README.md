@@ -22,3 +22,11 @@ This work established a StrongPose model which jointly tackle the problem of pos
 - [ ] Download the model https://drive.google.com/file/d/1oDPVqRnWA9hKIN-AWcgr6ViDxrrkhNSX/view?usp=sharing <br/>
 - [ ] python demo.py to run the demo and visualize the model result in demo_result folder. 
 
+## Training
+- [ ] Download the COCO 2017 dataset 
+
+- [ ] http://images.cocodataset.org/zips/train2017.zip <br/>
+
+- [ ] http://images.cocodataset.org/zips/val2017.zip <br/>
+
+- [ ] http://images.cocodataset.org/annotations/annotations_trainval2017.zip <br/>
