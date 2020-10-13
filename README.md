@@ -18,3 +18,7 @@ Code repo for ICPR 2021 paper (https://Article-will-be-available-soon)
 ##### > skimage 0.13.0
 ##### > python-opencv 3.4.1
 
+## Demo
+Download the model https://drive.google.com/file/d/1oDPVqRnWA9hKIN-AWcgr6ViDxrrkhNSX/view?usp=sharing
+python demo.py to run the demo and visualize the model result in demo_result folder. 
+
