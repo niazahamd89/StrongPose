@@ -7,3 +7,6 @@ This work established a StrongPose model which jointly tackle the problem of pos
 
 ## Introduction
 Code repo for reproducing 2020 ICPR paper (http:Article-Link-will-be-available-soon)
+
+## Result
+
