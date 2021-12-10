@@ -40,5 +40,5 @@ The adaptation of deep convolutional neural network has made revolutionary advan
 - [ ] Run the train.py script
 
 ## Note
-For any query please comment in issues section. 
+Report your queris in issues section. 
 
