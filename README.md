@@ -6,10 +6,10 @@ The adaptation of deep convolutional neural network has made revolutionary advan
 - [ ] Bacbone Network: ResNet 101, 152 (Modified) <br/>
 
 ## Introduction
- - [ ] Code repo for ICPR 2021 paper (https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9413198)
+ Code repo for ICPR 2021 paper (https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9413198)
 
-## Result
-![](pic3.jpeg)
+## Visualization Results
+img src="pic3.jpeg" width="500" height="600">
 
 ## Required
 - [ ] Python3
